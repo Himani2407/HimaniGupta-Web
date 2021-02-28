@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>Module2 Assignment</title>
+</head>
+<body>
+<h1>Our Menu</h1>
+<div id="pro">
+	<div class="item" id="chicken">
+		<div class="mywork">
+			<div class="item-name">
+				<h2>Chicken</h2>
+			</div>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt assumenda laborum est, sed distinctio ducimus dolores illum porro quis possimus eius, dicta deleniti eaque facilis accusamus. Tempore cum saepe deleniti deserunt tenetur aliquid veritatis doloremque sequi laborum assumenda velit ex quis quos, delectus, aperiam maxime omnis. Eveniet magni nam odit ut voluptates inventore hic est, quae reprehenderit veniam voluptate amet delectus, repudiandae ipsum necessitatibus, eos in molestiae cum ullam explicabo?</p>
+		</div>
+	</div>
+
+	<div class="item" id="beef">
+		<div class="mywork">
+			<div class="item-name">
+				<h2>Beef</h2>
+			</div>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt assumenda laborum est, sed distinctio ducimus dolores illum porro quis possimus eius, dicta deleniti eaque facilis accusamus. Tempore cum saepe deleniti deserunt tenetur aliquid veritatis doloremque sequi laborum assumenda velit ex quis quos, delectus, aperiam maxime omnis. Eveniet magni nam odit ut voluptates inventore hic est, quae reprehenderit veniam voluptate amet delectus, repudiandae ipsum necessitatibus, eos in molestiae cum ullam explicabo?</p>
+		</div>
+	</div>
+
+	<div class="item" id="sushi">
+		<div class="mywork">
+			<div class="item-name">
+				<h2>Sushi</h2>
+			</div>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt assumenda laborum est, sed distinctio ducimus dolores illum porro quis possimus eius, dicta deleniti eaque facilis accusamus. Tempore cum saepe deleniti deserunt tenetur aliquid veritatis doloremque sequi laborum assumenda velit ex quis quos, delectus, aperiam maxime omnis. Eveniet magni nam odit ut voluptates inventore hic est, quae reprehenderit veniam voluptate amet delectus, repudiandae ipsum necessitatibus, eos in molestiae cum ullam explicabo?</p>
+		</div>
+	</div>
+	
+</div>	
+</body>
+</html>
